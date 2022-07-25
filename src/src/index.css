@@ -1,0 +1,13 @@
+/* Imports here */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  text-decoration: none;
+}
+
+body{
+  background: #082032;
+}
