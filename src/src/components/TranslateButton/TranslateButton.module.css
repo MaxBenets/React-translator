@@ -1,0 +1,23 @@
+.area{
+    padding: 0 10px;
+}
+.button{
+    display: block;
+    margin-top: 15px;
+    width: 100%;
+    padding: 15px;
+    background: rgb(0, 112, 172);
+    color: #fff;
+    border: 0;
+    font-size: 35px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+    opacity: 0;
+}
+.button_active{
+    opacity: 1;
+}
+.waitImg{
+    width: 32px;
+}

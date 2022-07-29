@@ -1,0 +1,22 @@
+.Container{
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.App{
+  width: 100%;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  padding-top: 55px;
+}
+.Wrapper{
+  flex: 1;
+}
+
+@media (max-width: 1000px) {
+  .App{
+    padding-top: 10px;
+  }
+}
